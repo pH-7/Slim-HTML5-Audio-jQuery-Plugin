@@ -11,6 +11,7 @@ Slim HTML5 Audio jQuery Plugin  with Flash fallback.
         
         <!-- Include this Sound plugin -->
         <script src="http://your-site.com/static/js/jquery.sound.js"></script>  
+        
         $.sound.play('/path/to/media/background_music.mp3');
 
 ## Author

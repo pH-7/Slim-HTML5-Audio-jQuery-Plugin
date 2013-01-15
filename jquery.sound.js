@@ -1,6 +1,6 @@
 /*
  * Title:           Play Sound
- * Description:     HTML5 Audio with Flash fallback | jQuery plugin
+ * Description:     HTML5 Audio with <embed> fallback (this embed tag is in any case necessary for IE7 and 8). | jQuery plugin
  *
  * Author:          Pierre-Henry Soria <ph7software@gmail.com>
  * Copyright:       (c) 2013, Pierre-Henry Soria. All Rights Reserved.

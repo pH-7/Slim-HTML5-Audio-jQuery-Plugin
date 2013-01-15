@@ -1,8 +1,8 @@
-# HTML5 Audio with Flash fallback | jQuery Plugin
+# HTML5 Audio with <embed> fallback | jQuery Plugin
 
 ## Description
 
-Slim HTML5 Audio jQuery Plugin  with Flash fallback.
+Slim HTML5 Audio jQuery Plugin with <embed> fallback (this embed tag is in any case necessary for IE7 and 8).
 
 ## Example in HTML5 page
 
